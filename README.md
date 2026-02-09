@@ -44,6 +44,4 @@ This was a **solo project** where I:
 - Integrated text/speech output
 - Tested and optimized performance
 
----
 
-## 📂 Project Structure
